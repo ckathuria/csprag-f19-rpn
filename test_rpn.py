@@ -10,7 +10,6 @@ class TestBasics(unittest.TestCase):
         result = rpn.calculate("5 3 -")
         self.assertEqual(2, result)
     
-    # Added test
     def test_exponential(self):
         result = rpn.calculate("4 2 ^")
         self.assertEqual(16, result)
