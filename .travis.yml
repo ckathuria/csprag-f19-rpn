@@ -12,4 +12,4 @@ python:
 # command to run tests
 script:
   - make
-    coverage report
+  - coverage report
