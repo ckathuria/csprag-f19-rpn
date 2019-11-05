@@ -1,3 +1,3 @@
 # csprag-f19-rpn
 
-https://travis-ci.com/ckathuria/csprag-f19-rpn.svg?branch=master
+[![Build Status](https://travis-ci.com/ckathuria/csprag-f19-rpn.svg?branch=master)](https://travis-ci.com/ckathuria/csprag-f19-rpn)
